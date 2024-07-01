@@ -9597,7 +9597,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "665a0c09-2bbc-4ff2-8bc5-097b5341e70e")
-		(property "Reference" "C6"
+		(property "Reference" "C5"
 			(at 250.19 148.5899 0)
 			(effects
 				(font
@@ -9651,7 +9651,7 @@
 		(instances
 			(project "cnc_heat"
 				(path "/58fa3ba6-f076-4451-8045-d6c44cdcfd4b"
-					(reference "C6")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -12007,7 +12007,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4e5b9f8-3b3f-443a-9cd0-0e09511c5e31")
-		(property "Reference" "C5"
+		(property "Reference" "C4"
 			(at 237.49 148.5899 0)
 			(effects
 				(font
@@ -12061,7 +12061,7 @@
 		(instances
 			(project "cnc_heat"
 				(path "/58fa3ba6-f076-4451-8045-d6c44cdcfd4b"
-					(reference "C5")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -14734,7 +14734,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7583dd7-3124-4372-85f9-91e9f272c974")
-		(property "Reference" "C7"
+		(property "Reference" "C6"
 			(at 262.89 148.5899 0)
 			(effects
 				(font
@@ -14788,7 +14788,7 @@
 		(instances
 			(project "cnc_heat"
 				(path "/58fa3ba6-f076-4451-8045-d6c44cdcfd4b"
-					(reference "C7")
+					(reference "C6")
 					(unit 1)
 				)
 			)
